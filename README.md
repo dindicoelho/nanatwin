@@ -18,6 +18,15 @@ NanaTwin is a web application that leverages Google's Imagen 4 (nano-banana) to 
 
 ---
 
+## 🎥 Demo
+
+### Full Walkthrough
+Watch the complete experience from concept to generation:
+
+https://github.com/user-attachments/assets/overall.mp4
+
+---
+
 ## ✨ Features
 
 - **Character Consistency**: Upload up to 15 photos and generate consistent character images across different scenarios
