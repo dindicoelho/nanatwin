@@ -141,12 +141,12 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 ## 🔗 Links
-
-- **AI Studio Project**: [View in AI Studio](https://ai.studio/apps/drive/1P-z9XoB34f6TedInpzABEhAiCXIsuFo7)
+- **Website**: [View in website](https://nanatwin-297586407227.us-west1.run.app)
+- **AI Studio Project**: [View in Google AI Studio](https://ai.studio/apps/drive/1P-z9XoB34f6TedInpzABEhAiCXIsuFo7)
 - **Author**: [@dindicoelho](https://github.com/dindicoelho)
 
 ---
 
 <div align="center">
-Made with 🍌 and ✨ by Dindi Coelho
+Made with 🍌 and 🌝 by Dindi Coelho
 </div>
